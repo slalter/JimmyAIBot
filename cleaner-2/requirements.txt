@@ -1,0 +1,4 @@
+functions-framework==3.*
+flask==2.3.2
+google_cloud_storage==2.9.0
+pytz==2023.3

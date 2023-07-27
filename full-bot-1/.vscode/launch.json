@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "FullBot",
+      "region": "us-central1",
+      "gen": "GEN_2",
+      "revision": "fullbot-00042-saw",
+      "entryPoint": "hello_http",
+      "runtime": "python311",
+      "testInput": ""
+    }
+  ]
+}

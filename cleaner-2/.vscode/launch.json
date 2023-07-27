@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "Cleaner",
+      "region": "us-central1",
+      "gen": "GEN_2",
+      "revision": "cleaner-00024-lap",
+      "entryPoint": "hello_get",
+      "runtime": "python311",
+      "testInput": ""
+    }
+  ]
+}

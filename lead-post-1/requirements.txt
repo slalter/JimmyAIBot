@@ -1,0 +1,6 @@
+functions-framework==3.*
+openai==0.27.8
+flask==2.3.2
+google_cloud_storage==2.9.0
+twilio==8.3.0
+requests==2.31.0
